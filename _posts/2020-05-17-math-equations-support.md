@@ -17,12 +17,12 @@ and the F1 car will travel that same distance as,
 \end{equation}
 
 Substituting \eqref{eq:car} into \eqref{eq:f1} and solving for $t$ gives
-\begin{align}
+\begin{aligned}
   100t &= 300(t - t_0), \\
   200t &= 300t_0, \\
   \label{eq:t}
   t &= \frac{3}{2}t_0.         
-\end{align}
+\end{aligned}
 
 Now, let's do a drag race! Let the drag strip be a $1~km$ long straight. What is the
 head start your car requires to tie or win the race?
