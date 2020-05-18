@@ -1,4 +1,4 @@
-# Equations test
+# Corolla vs Ferrari
 
 Imagine you are racing your car against an F1 car. Your car has speed $100~km/h$
 while the F1 car has speed $300~km/h$. The race director decides to show mercy
@@ -34,13 +34,3 @@ Substituting \eqref{eq:t} into \eqref{eq:car}, we've
 \end{equation}
 We plug in the numbers to get $t_0 = 1/150~h = 24~s$. Therefore, the car
 need to have a head start of at least $24~s$ to tie or win.
-
-
-```math
-\begin{equation}
-  \label{foo}
-  E = mc^2
-\end{equation}
-```
-
-Equation \eqref{foo} means that ...
