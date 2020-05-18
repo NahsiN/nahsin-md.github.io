@@ -1,11 +1,11 @@
 # Corolla vs Ferrari
 
-Imagine you are racing your car against an F1 car. Your car has speed $100~km/h$
+Imagine racing your car against an F1 car. Your car has speed $100~km/h$
 while the F1 car has speed $300~km/h$. The race director decides to show mercy
 and gives your car a head start. How long will it take for the F1 car
 to catch up to you?
 
-Denote $t_0$ as the head start given to your car. The car travels a distance $d$ as,
+Denote $t_0$ as the head start given to your car. Your car travels a distance $d$ as,
 \begin{equation}
   \label{eq:car}
   d = 100t,
@@ -32,5 +32,5 @@ Substituting \eqref{eq:t} into \eqref{eq:car}, we've
   \label{eq:d}
   d = 150t_0.
 \end{equation}
-We plug in the numbers to get $t_0 = 1/150~h = 24~s$. Therefore, the car
-need to have a head start of at least $24~s$ to tie or win.
+We plug in the numbers to get $t_0 = 1/150~h = 24~s$. Therefore, your car
+needs to have a head start of at least $24~s$ to tie or win.
